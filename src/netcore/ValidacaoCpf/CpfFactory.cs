@@ -32,11 +32,6 @@ namespace ValidacaoCpf
                 soma2 += numberInts[i] * (11 - i);
             }
 
-            for (int i = 0; i < 10; i++)
-            {
-                
-            }
-
             int resto1 = mod11(soma1);
             int resto2 = mod11(soma2);
 
