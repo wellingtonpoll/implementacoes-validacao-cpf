@@ -7,3 +7,6 @@ Se vc curtiu a idéia deixe uma estrelinha e contribua vc tbm com sua implementa
 ## Implementações
     
     - GO: Executed 1000000 in 267 miliseconds 
+    
+    - .NET Core: Executed 1000000 in 71 miliseconds
+    ![netcore results](/src/netcore/ValidacaoCpf/results/results.png)
